@@ -1,12 +1,12 @@
 <p align="center">
 
 <a href="https://github.com/Drarlian">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=100&multiline=true&repeat=false&width=620&height=80&lines=Witor+Oliveira;Desenvolvedor+%7C+Estudante+%7C+Egenheiro da Computação;Python+%7C+Automação+%7C+Análise de dados" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=200&multiline=true&width=620&height=80&lines=Witor+Oliveira;Desenvolvedor+%7C+Estudante+%7C+Egenheiro da Computação;Python+%7C+Automação+%7C+Análise de dados" alt="Typing SVG" />
 </a>
-</a>
-
-<br/>
   
+<br/>
+<br/>
+
 <a href="https://www.linkedin.com/in/witoroliveira/">
 <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin"> 
 </a>
