@@ -1,7 +1,7 @@
 <p align="center">
 
 <a href="https://github.com/Drarlian">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=200&multiline=true&width=620&height=80&lines=Witor+Oliveira;Desenvolvedor+%7C+Estudante+%7C+Engenheiro da Computação;Python+%7C+Automação+%7C+Análise de Dados" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=200&multiline=true&width=630&height=80&lines=Witor+Oliveira;Desenvolvedor+%7C+Estudante+%7C+Engenheiro da Computação;Python+%7C+Automação+%7C+Análise de Dados" alt="Typing SVG" />
 </a>
   
 <br/>
