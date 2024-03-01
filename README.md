@@ -24,11 +24,11 @@
 
 ## ⚡ GitHub Statistics
 <div align="center">
-  <!--   <img align="center" width="47.2%" src="https://github-readme-stats.vercel.app/api?username=drarlian&count_private=true&show_icons=true&theme=defaut" />  -->
+  <img align="center" width="47.2%" src="https://github-readme-stats.vercel.app/api?username=drarlian&count_private=true&show_icons=true&theme=defaut" /> 
   <img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=drarlian&" alt="drarlian" />
 </div>
 
 <div align="center">
-  <br>
+  <br/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drarlian&layout=compact&theme=defaut" />
 </div>
