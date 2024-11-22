@@ -7,25 +7,19 @@
 <br/>
 <br/>
 
-<a href="https://www.linkedin.com/in/witoroliveira/">
-  <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin"> 
-</a>
-<a href="mailto:witoredson@gmail.com">
-  <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
-</a>
+<div align="center">
+  <a href = "mailto:witoredson@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/witoroliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
 <br/>
-
-<a href="https://github.com/Drarlian">
-  <img src="https://github-stats-alpha.vercel.app/api?username=Drarlian&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
-</a>
 </p>
 
 
 ## ⚡ GitHub Statistics
 <div align="center">
-  <a href="https://github.com/Drarlian?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=Drarlian&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Goblin's github-readme-stats"/></a>
-  <a href="https://github.com/Drarlian?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=Drarlian&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Goblin's github-readme-streak-stats"/></a>
+  <a href="https://github.com/Drarlian?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=Drarlian&theme=moltack&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Goblin's github-readme-stats"/></a>
+  <a href="https://github.com/Drarlian?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=Drarlian&theme=moltack&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="@Goblin's github-readme-streak-stats"/></a>
 <!--   <img align="center" width="47.2%" src="https://github-readme-stats.vercel.app/api?username=drarlian&count_private=true&show_icons=true&theme=defaut" />  -->
 <!--   <img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=drarlian&" alt="drarlian" /> -->
 </div>
@@ -39,5 +33,36 @@
 <!-- activity graph heroku-app end -->
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drarlian&layout=compact&theme=defaut" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drarlian&layout=compact&theme=moltack" />
 </div>
+
+<!-- Tecnologias -->
+## ⚡ Front-End
+<h3>I have experience</h3>
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,react,vite,ts,js,css" />
+  </a>
+</p>
+
+## ⚡ Back-End
+<h3>I have experience</h3>
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,nodejs,java,fastapi,django" />
+  </a>
+</p>
+
+## ⚡ Softwares and Tools
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker,pycharm,npm" />
+  </a>
+</p>
+
+## ⚡ Database
+<p align="start">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongo " />
+  </a>
+</p>
