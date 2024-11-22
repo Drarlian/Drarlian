@@ -1,14 +1,14 @@
 <p align="center">
 
 <a href="https://github.com/Drarlian">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=200&multiline=true&width=630&height=115&lines=Witor+Oliveira;Developer+%7C+Student+%7C+Computer Engineer;Angular+%7C+TypeScript+%7C+Web Developer;Python+%7C+Automation+%7C+Data Analysis" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=100&multiline=true&width=630&height=115&lines=Witor+Oliveira;Developer+%7C+FullStack+%7C+Computer Engineer;Python+%7C+FastAPI+%7C+NodeJS;Angular+%7C+React+%7C+Vite" alt="Typing SVG" />
 </a>
   
 <br/>
 <br/>
 
 <div align="center">
-  <a href = "mailto:witoredson@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:witoredson@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white&color=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/witoroliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
@@ -54,6 +54,7 @@
 </p>
 
 ## ⚡ Softwares and Tools
+<h3>I have experience</h3>
 <p align="start">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker,pycharm,npm" />
@@ -61,6 +62,7 @@
 </p>
 
 ## ⚡ Database
+<h3>I have experience</h3>
 <p align="start">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongo " />
