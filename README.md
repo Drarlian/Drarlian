@@ -57,7 +57,7 @@
 <h3>I have experience</h3>
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,docker,pycharm,npm" />
+    <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,pycharm,npm,docker" />
   </a>
 </p>
 
