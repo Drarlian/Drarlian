@@ -49,7 +49,7 @@
 <h3>I have experience</h3>
 <p align="start">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,nodejs,java,fastapi,django" />
+    <img src="https://skillicons.dev/icons?i=py,nodejs,java,django,fastapi,rabbitmq" />
   </a>
 </p>
 
