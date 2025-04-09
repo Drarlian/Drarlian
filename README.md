@@ -15,26 +15,44 @@
 <br/>
 </p>
 
-
-## ⚡ GitHub Statistics
+<!-- Status -->
+<!-- <h1 style="text-align: center; margin-bottom: 0;">⚙️ GitHub Analytics</h1> -->
+## ⚙️ GitHub Analytics
 <div align="center">
-  <a href="https://github.com/Drarlian?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=Drarlian&theme=moltack&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Goblin's github-readme-stats"/></a>
-  <a href="https://github.com/Drarlian?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=Drarlian&theme=moltack&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="@Goblin's github-readme-streak-stats"/></a>
-<!--   <img align="center" width="47.2%" src="https://github-readme-stats.vercel.app/api?username=drarlian&count_private=true&show_icons=true&theme=defaut" />  -->
-<!--   <img align="center" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=drarlian&" alt="drarlian" /> -->
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=drarlian&theme=moltack&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="Github Stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=drarlian&theme=moltack&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="Github Stats"/>
 </div>
 
 <!-- activity graph heroku-app start -->
-<div align="center">
+<p align="center">
     <a href="https://wakatime.com/@Goblin8888">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Drarlian&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=drarlian&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
-</div>
+</p>
 <!-- activity graph heroku-app end -->
 
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drarlian&layout=compact&theme=moltack" />
-</div>
+<table align="center">
+<tr>
+    <td>
+      <img
+        src="https://github-profile-trophy.vercel.app/?username=drarlian&theme=onestar&no-frame=true&column=3&row=2"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=drarlian&theme=moltack&hide_border=true&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://gist.github.com/fs-kayky"><img src="https://profile-counter.glitch.me/{drarlian}/count.svg" alt="PrinceGoblinTech :: Visitor's Count" /></a>
+</p>
+
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
 
 <!-- Tecnologias -->
 ## ⚡ Front-End
